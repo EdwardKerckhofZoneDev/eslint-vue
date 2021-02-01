@@ -1,0 +1,32 @@
+{
+  "name": "eslint-vue",
+  "version": "1.0.0",
+  "description": "Custom .eslintrc.js config file I like to use for vue projects",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "EdwardKerckhofZoneDev <edward@zonedev.be>",
+  "license": "MIT",
+  "keywords": [
+    "config",
+    "eslintrc",
+    "eslintrc.js",
+    "vue",
+    "vuejs",
+    "html",
+    "code"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdwardKerckhofZoneDev/eslint-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EdwardKerckhofZoneDev/eslint-vue/issues"
+  },
+  "homepage": "https://github.com/EdwardKerckhofZoneDev/eslint-vue#readme",
+  "private": false,
+  "devDependencies": {},
+  "dependencies": {}
+}
